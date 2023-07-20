@@ -1,5 +1,5 @@
 # ajcommerce
 
-# Editing the repository
+## Editing the repository
 
 Markdown options present in Jupyter Notebook
